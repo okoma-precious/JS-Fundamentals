@@ -1,6 +1,6 @@
 const lines =  [
     "C is fun",
-    "python is cool",
+    "Python is cool",
     "JavaScript is amazing"
 ];
 
